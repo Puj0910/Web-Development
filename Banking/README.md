@@ -1,6 +1,6 @@
 WELCOME TO MY PROJECT ON BANK WEBSITE.
 
-			PROJECT MADE BY SAPNA KUMARI.
+			PROJECT MADE BY PUJA KUMARI.
 
 	Spark Foundation Web Development Internship Project : Basic Banking System Website.
 	A web application used to transfer virtual money between multiple users and 
